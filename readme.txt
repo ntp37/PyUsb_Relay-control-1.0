@@ -1,0 +1,1 @@
+Please config USB Port in "config_relay.ini"
